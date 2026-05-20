@@ -1,0 +1,26 @@
+VPN Troubleshooting Guide
+
+1. Verify internet connectivity.
+2. Ensure VPN client is updated.
+3. Reset cached credentials.
+4. Verify MFA enrollment.
+5. Restart VPN service.
+
+---
+
+Database High CPU Troubleshooting
+
+1. Check long running queries.
+2. Review indexing strategy.
+3. Monitor connection pool.
+4. Analyze recent deployments.
+5. Scale database resources if required.
+
+---
+
+Salesforce Login Issues
+
+1. Verify SSO configuration.
+2. Check user account lock status.
+3. Validate MFA policies.
+4. Review identity provider logs.
